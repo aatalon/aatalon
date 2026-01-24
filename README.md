@@ -9,8 +9,7 @@
 
 <h1 align="center">About me</h1>
 <p align="center">
-A grade 12 High School student currently creating projects for fun and commissioned projects. Worked towards creating bigger projects
-and improving my skills in programming.
+A Grade 12 high school student developing personal and commissioned projects, focused on building larger applications and strengthening programming skills.
 <p>
 
 
