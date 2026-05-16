@@ -1,19 +1,50 @@
-<h1 align="center">Hello,  I'm Aatalon!</h1>
+<h1 align="center">Hey, I'm Aatalon 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aatalon&label=Profile%20views&color=7745bf&" />
-  <img src="https://img.shields.io/github/followers/aatalon?style=flat&logo=github&label=Followers&color=7c60d1" />
-  <img src="https://img.shields.io/github/stars/aatalon?style=flat&logo=github&label=Stars&color=fd7cff" />
+Building games, websites, and tools
 </p>
 
-
-<h1 align="center">About me</h1>
 <p align="center">
-A Grade 12 high school student developing personal and commissioned projects, focused on building larger applications and strengthening programming skills.
+  <img src="https://komarev.com/ghpvc/?username=aatalon&label=Profile%20Views&color=7745bf" />
+  <img src="https://img.shields.io/github/followers/aatalon?style=flat&logo=github&label=Followers&color=7c60d1" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Grade 12 student
+- 💻 Building personal and commissioned projects
+- 📚 Currently improving Java, JavaScript, Roblox Lua, HTML/CSS
+- 🎯 Goal: Create larger-scale applications and continue growing as a developer
+- ⚽ FC Barcelona supporter
+
+---
+
+## 🛠 Skills
+
 <p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,lua,vscode,github" />
+</p>
 
+---
 
+## 🌟 Featured Projects
 
+### Badge+
+Roblox plugin designed to simplify badge systems.
 
+### Retro Adventure
+2D platformer inspired by classic games.
+
+### Super Sprinter
+Fast-paced Roblox racing experience.
+
+### SchoolDay
+Tools and features for students.
+
+---
+
+<p align="center">
 "Més que un club"
-
+</p>
